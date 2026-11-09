@@ -56,6 +56,7 @@ Bu doküman, "Güzellik Trendleri" projesinde Google Trends verisinin analizini 
 
 Rapor: **Google Trends Haftalik Rapor** (Power BI Service).
 Grafik: **Kategorilere Göre Haftalık Google Trends Eğilimleri** (çizgi grafik). X ekseni tarih, Y ekseni ortalama arama puanı, gösterge kategori. Kaynak: `mart_trends_haftalik`.
+Link: https://app.powerbi.com/links/Q5c-mcbXkl?ctid=de24a125-09c4-4916-a8eb-d3d035168252&pbi_source=linkShare[https://app.powerbi.com/links/Q5c-mcbXkl?ctid=de24a125-09c4-4916-a8eb-d3d035168252&pbi_source=linkShare]
 
 ## Sınırlılıklar
 
