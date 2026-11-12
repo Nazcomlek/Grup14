@@ -6,8 +6,6 @@ Google Trends arama ilgisi ile bir perakende zincirinin kozmetik satışlarını
 
 ![Power BI dashboard](dashboard.png)
 
-[Dashboard'u Power BI'da aç](https://app.powerbi.com/links/9qZuT8BHzT?ctid=de24a125-09c4-4916-a8eb-d3d035168252&pbi_source=linkShare)
-
 
 ## Veri kaynakları
 
