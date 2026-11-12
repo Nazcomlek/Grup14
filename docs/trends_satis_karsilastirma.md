@@ -68,3 +68,4 @@ Cilt Bakım Seti, ürün bazında bir arama terimiyle eşleşmediği için yaln�
 ## Power BI
 
 Önerilen grafik: seçili kategori için haftalık arama puanı ve satış adedi (iki eksenli çizgi grafik), kategori slicer'ı ile. Kaynak: `mart_trends_satis_haftalik`. Korelasyon tablosu için `mart_trends_satis_korelasyon` kullanılabilir.
+Link: https://app.powerbi.com/groups/me/reports/446edcfb-c8eb-4c1b-b38d-3e1dbae80f9b/93b781370bd168a7eaa2?experience=power-bi
